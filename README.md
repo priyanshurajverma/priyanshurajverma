@@ -37,8 +37,8 @@ I specialize in **frontend development** with a strong foundation in backend tec
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?https://github.com/priyanshurajverma/priyanshurajverma/tree/main&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?https://github.com/priyanshurajverma/priyanshurajverma/tree/main&theme=radical" width="48%" />
 </p>
 
 ---
