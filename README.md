@@ -32,21 +32,25 @@ I specialize in **frontend development** with a strong foundation in backend tec
 ![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=for-the-badge)
 
 **Others:**  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ---
 
 ### 🧠 Projects
-- **AI Study Assistant** – Personalized study helper using OpenCV + Python  
+- **Personal Portfolio** - Created with the help of HTML,CSS,JAVASCRIPT &  Python
 - **Quiz Game App** – Frontend quiz game in JavaScript  
-- **Schedule Tracker** – Web app to manage and review daily productivity  
-- **Student Web** – WordPress site to support student learning  
-- **Cafe Website** – WordPress-based local business site  
+- **Neurosearch** – A semantic search based program with the help of python libraries & React  
+- **Rock Paper Scissor** – To have some fun   
+- **Cafe Website** – WordPress-based local business site
+- **Amazon Clone** - HTML & CSS
+- **Task Manager** - Ongoing
+- 
 
 ---
 
