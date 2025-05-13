@@ -50,7 +50,7 @@ I specialize in **frontend development** with a strong foundation in backend tec
 - **Cafe Website** – WordPress-based local business site
 - **Amazon Clone** - HTML & CSS
 - **Task Manager** - Ongoing
-- 
+
 
 ---
 
